@@ -1,1 +1,1 @@
-# datascience_scratch_1
+# 밑바닥부터 시작하는 데이터과학 1기
