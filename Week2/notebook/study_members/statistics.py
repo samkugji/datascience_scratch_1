@@ -49,6 +49,7 @@ def binomial(p, n):
 def make_hist(p, n, num_points):
     import matplotlib.pyplot as plt
     from collections import Counter
+    import math
     
     data = [binomial(p, n) for _ in range(num_points)]
     
