@@ -1,0 +1,11 @@
+1. 실습 내용 제출
+2. numpyt tutorial 작성 후 제출
+    - https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+    
+# 과제 제출 방식
+
+- 파일명
+    - 1) ex. 04.선형대수_오세창.ipynb
+    - 2) numpy_tutorial_오세창.ipynb
+    
+- 슬랙, learnit 계정으로 DM 발송
